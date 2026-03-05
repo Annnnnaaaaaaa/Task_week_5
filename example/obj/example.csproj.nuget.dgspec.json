@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\0_KSE\\2 терм\\OOP\\week 5\\Task week 5\\Task week 5\\Task week 5.csproj": {}
+    "C:\\0_KSE\\2 терм\\OOP\\week 5\\Task week 5\\example\\example.csproj": {}
   },
   "projects": {
-    "C:\\0_KSE\\2 терм\\OOP\\week 5\\Task week 5\\Task week 5\\Task week 5.csproj": {
+    "C:\\0_KSE\\2 терм\\OOP\\week 5\\Task week 5\\example\\example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\0_KSE\\2 терм\\OOP\\week 5\\Task week 5\\Task week 5\\Task week 5.csproj",
-        "projectName": "Task week 5",
-        "projectPath": "C:\\0_KSE\\2 терм\\OOP\\week 5\\Task week 5\\Task week 5\\Task week 5.csproj",
+        "projectUniqueName": "C:\\0_KSE\\2 терм\\OOP\\week 5\\Task week 5\\example\\example.csproj",
+        "projectName": "example",
+        "projectPath": "C:\\0_KSE\\2 терм\\OOP\\week 5\\Task week 5\\example\\example.csproj",
         "packagesPath": "C:\\Users\\Анна\\.nuget\\packages\\",
-        "outputPath": "C:\\0_KSE\\2 терм\\OOP\\week 5\\Task week 5\\Task week 5\\obj\\",
+        "outputPath": "C:\\0_KSE\\2 терм\\OOP\\week 5\\Task week 5\\example\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Анна\\AppData\\Roaming\\NuGet\\NuGet.Config"
